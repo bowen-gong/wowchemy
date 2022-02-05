@@ -1,8 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Consolidation of commercial-size UO2 fuel pellets using spark plasma sintering
-  and microstructure/microchemical analysis
+title: Consolidation of commercial-size UO2 fuel pellets using spark plasma sintering and microstructure/microchemical analysis
 subtitle: ''
 summary: ''
 authors:

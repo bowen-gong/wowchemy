@@ -37,3 +37,4 @@ publication_types:
 abstract: ''
 publication: '*Journal of Nuclear Materials*'
 ---
+{{% staticref "uploads/files/cantilever.pdf" "newtab" %}}{{% /staticref %}}

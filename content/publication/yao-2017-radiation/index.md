@@ -1,8 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Radiation-induced grain subdivision of U 3 Si 2 irradiated by 300 keV Xe+ at
-  LWR temperature
+title: Radiation-induced grain subdivision of U3Si2 irradiated by 300 keV Xe+ at LWR temperature
 subtitle: ''
 summary: ''
 authors:

@@ -1,8 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Thermally-conductive and mechanically-robust graphene nanoplatelet reinforced
-  UO2 composite nuclear fuels
+title: Thermally-conductive and mechanically-robust graphene nanoplatelet reinforced UO2 composite nuclear fuels
 subtitle: ''
 summary: ''
 authors:
@@ -32,7 +31,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: [Nuclear]
-publishDate: '2022-02-05T15:58:47.915284Z'
+publishDate: '2018-01-01T10:58:49-05:00'
 publication_types:
 - '2'
 abstract: ''

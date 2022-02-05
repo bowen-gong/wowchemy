@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Nano-and micro-indentation testing of sintered UO2 fuel pellets"
-authors: [admin, Davidd Frazer, Tiankai Yao, Peter Hosemann, Michael Tonks, Jie Lian]
+authors: [admin, David Frazer, Tiankai Yao, Peter Hosemann, Michael Tonks, Jie Lian]
 date: 2019-04-01T14:59:03.230714Z
 doi: ""
 
