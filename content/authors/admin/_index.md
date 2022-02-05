@@ -1,39 +1,46 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Bowen Gong
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: PhD candidate in Rensselaer Polytechnic Institute
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: Rensselaer Polytechnic Institute
+  url: https://www.rpi.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include Network Science, Machine Learning, Natural Language Processing, Parallel Computing, Finite Element Analysis.
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Network Science
+- Social Network
+- Machine Learning
+- Natural Language Processing
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Mechanical Engineering
+    institution: Rensselaer Polytechnic Institute
+    year: 2022
+  - course: MS in Computer Science
+    institution: Rensselaer Polytechnic Institute
+    year: 2021
+  - course: MS in Computer Science
+    institution: Georgia Institute of Technology
+    year: 2021
+  - course: MS in Mechanical Engineering
+    institution: Arizona State University
+    year: 2015
+  - course: BS in Mechanical Engineering
+    institution: Huazhong University of Science and Technology
+    year: 2014
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -42,19 +49,16 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
+  link: 'boweng@gmail.com'
+- icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=CZf8w9wAAAAJ
+# - icon: github
+#   icon_pack: fab
+#   link: https://github.com/gcushen
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/in/bowen-gong/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -69,9 +73,10 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
+Bowen Gong is currently a Ph.D. candidate in Mechanical Engineering at Rensselaer Polytechnic Institute (RPI), graduating in May 2022. His PhD advisor is Dr. [Jie Lian](http://homepages.rpi.edu/~lianj/about.html) and his research work focuses on the development of Advanced Tolerant Fuels (ATFs). Currently, he has 10 first-author publications and more than 20 co-author publications on high-impact journals.
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Bowen got his master's degree in computer science from RPI and Georgia Institute of Technology (GaTech). His advisor at RPI is Dr. [Boleslaw Szymanski](http://cs.rpi.edu/~szymansk/).
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Prior to joining RPI, he worked at Oak Ridge National Laboratory (ORNL). Before that, Bowen completed his master's degree in mechanical engineering from Arizona State University (ASU) in 2015 and his bachelor's degree from Huazhong University of Science and Technology (HUST) in China.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv.pdf" "newtab" >}}CV{{< /staticref >}}.

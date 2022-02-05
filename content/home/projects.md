@@ -27,10 +27,14 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Deep Learning
-    tag: Deep Learning
-  - name: Other
-    tag: Demo
+  - name: Network Science
+    tag: Network Science
+  - name: Parallel Computing
+    tag: Parallel Computing
+  - name: Machine Learning
+    tag: Machine Learning
+  - name: Nuclear Fuels
+    tag: Nuclear Fuels
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
