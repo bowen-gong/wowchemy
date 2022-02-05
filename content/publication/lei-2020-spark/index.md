@@ -3,11 +3,11 @@
 
 title: "Spark plasma sintering-densified vanadinite apatite-based chlorine waste forms with high thermal stability and chlorine confinement"
 authors: [Penghui Lei, Tiankai Yao, admin, et al.]
-date: 2021-12-25T10:21:59-05:00
+date: 2020-01-25T10:21:59-05:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2021-12-25T10:21:59-05:00
+publishDate: 2020-01-25T10:21:59-05:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;

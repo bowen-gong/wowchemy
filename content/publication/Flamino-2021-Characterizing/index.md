@@ -3,7 +3,7 @@
 
 title: "Characterizing Topics in Social Media Using Dynamics of Conversation"
 authors: [James Flamino, admin, Frederick Buchanan, Boleslaw K Szymanski]
-date: 2022-02-05T10:21:59-05:00
+date: 2021-12-25T10:21:59-05:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).

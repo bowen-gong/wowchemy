@@ -3,7 +3,7 @@
 
 title: "U3Si2 and UO2 composites densified by spark plasma sintering for accident-tolerant fuels"
 authors: [admin, Tiankai Yao, Penghui Lei, Lu Cai, Kathryn E Metzger, Edward J Lahoda, Frank A Boylan, Afiqa Mohamad, Jason Harp, Andrew T Nelson, Jie Lian]
-date: 2022-02-05T10:21:59-05:00
+date: 2020-06-01T10:21:59-05:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).

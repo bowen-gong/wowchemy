@@ -1,8 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Fabrication and thermophysical properties of UO2-UB2 and UO2-UB4 composites
-  sintered via spark plasma sintering
+title: Fabrication and thermophysical properties of UO2-UB2 and UO2-UB4 composites sintered via spark plasma sintering
 subtitle: ''
 summary: ''
 authors:
@@ -20,7 +19,7 @@ authors:
 tags: []
 categories: []
 date: '2021-01-01'
-lastmod: 2022-02-05T10:59:13-05:00
+lastmod: 2021-01-01T10:59:13-05:00
 featured: false
 draft: false
 

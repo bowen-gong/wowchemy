@@ -1,24 +1,39 @@
 ---
-title: 'High-temperature Compressive Creep Tests of U3Si2 with Spark Plasma Sintering:
-  Experiments and Finite Element Modeling'
-_build:
-  render: never
-  list: never
-  publishResources: false
-date: '2022-01-01'
-publishDate: '2022-02-05T15:59:20.898760Z'
+# Documentation: https://wowchemy.com/docs/managing-content/
+
+title: 'High-temperature Compressive Creep Tests of U3Si2 with Spark Plasma Sintering: Experiments and Finite Element Modeling'
+subtitle: ''
+summary: ''
 authors:
-- Bowen Gong
+- admin
 - Dong Zhao
 - Andre Broussard
 - Jason Harp
 - Andrew T Nelson
 - Jie Lian
+tags: []
+categories: []
+date: 2022-02-05T15:59:03.230714Z
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: [Nuclear]
+publishDate: '2021-02-05T15:59:15.519493Z'
 publication_types:
 - '2'
 abstract: ''
-featured: false
 publication: '*Journal of Nuclear Materials*'
-projects: [Nuclear]
 ---
-

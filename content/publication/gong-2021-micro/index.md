@@ -13,8 +13,7 @@ authors:
 - Pedro Peralta
 tags: []
 categories: []
-date: '2021-01-01'
-lastmod: 2022-02-05T10:59:16-05:00
+date: 2021-02-05T14:59:03.230714Z
 featured: false
 draft: false
 
@@ -32,7 +31,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: [Nuclear]
-publishDate: '2022-02-05T15:59:15.519493Z'
+publishDate: '2021-02-05T15:59:15.519493Z'
 publication_types:
 - '2'
 abstract: ''

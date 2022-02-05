@@ -5,7 +5,7 @@ title: "Development of a grain growth model for U3Si2 using experimental data, p
 authors:
 - Amani Cheniour
 - Michael R Tonks
-- Bowen Gong
+- admin
 - Tiankai Yao
 - Lingfeng He
 - Jason M Harp

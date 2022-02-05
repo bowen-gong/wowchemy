@@ -1,12 +1,11 @@
 ---
-title: Effects of microstructural constraints on the transport of fission products
-  in uranium dioxide at low burnups
+title: Effects of microstructural constraints on the transport of fission products in uranium dioxide at low burnups
 _build:
   render: never
   list: never
   publishResources: false
 date: '2016-01-01'
-publishDate: '2022-02-05T15:58:41.383970Z'
+publishDate: '2016-01-01T15:58:41.383970Z'
 authors:
 - Harn Chyi Lim
 - Karin Rudman
