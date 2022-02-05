@@ -1,13 +1,13 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Nano-and micro-indentation testing of sintered UO2 fuel pellets with controlled microstructure and stoichiometry"
+title: "Nano-and micro-indentation testing of sintered UO2 fuel pellets"
 authors: [admin, David Frazer, Tiankai Yao, Peter Hosemann, Michael Tonks, Jie Lian]
-date: 2019-01-01T15:58:54.271010Z
+date: 2019-04-01T14:59:03.230714Z
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2019-01-01T15:58:54.271010Z
+publishDate: 2019-04-01T14:59:03.230714Z
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -16,7 +16,7 @@ publishDate: 2019-01-01T15:58:54.271010Z
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Nuclear Materials*"
+publication: "Journal of Nuclear Materials"
 publication_short: ""
 
 abstract: ""
@@ -26,7 +26,7 @@ summary: ""
 
 tags: []
 categories: []
-featured: true
+featured: false
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
@@ -50,7 +50,7 @@ url_video:
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: ""
-  focal_point: "Top"
+  focal_point: ""
   preview_only: false
 
 # Associated Projects (optional).
@@ -67,5 +67,3 @@ projects: [Nuclear]
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
-
-{{% staticref "uploads/files/nano.pdf" "newtab" %}}nano{{% /staticref %}}
