@@ -67,4 +67,4 @@ projects: [Nuclear]
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
-{{% staticref "uploads/files/nano.pdf" "newtab" %}}Download the PDF{{% /staticref %}}
+{{% staticref "uploads/files/nano.pdf" "newtab" %}}{{% /staticref %}}
