@@ -1,6 +1,5 @@
 ---
-title: Nano-and micro-indentation testing of sintered UO2 fuel pellets with controlled
-  microstructure and stoichiometry
+title: Nano-and micro-indentation testing of sintered UO2 fuel pellets with controlled microstructure and stoichiometry
 _build:
   render: never
   list: never
@@ -21,4 +20,4 @@ featured: false
 publication: '*Journal of Nuclear Materials*'
 projects: [Nuclear]
 ---
-
+{{< staticref "uploads/nano.pdf" "newtab" >}}{{< /staticref >}}

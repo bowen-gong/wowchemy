@@ -24,4 +24,4 @@ featured: false
 publication: '*Corrosion Science*'
 projects: [Nuclear]
 ---
-
+{{< staticref "uploads/Cr.pdf" "newtab" >}}{{< /staticref >}}

@@ -35,3 +35,4 @@ publication_types:
 abstract: ''
 publication: '*Journal of Nuclear Materials*'
 ---
+{{< staticref "uploads/ML.pdf" "newtab" >}}{{< /staticref >}}

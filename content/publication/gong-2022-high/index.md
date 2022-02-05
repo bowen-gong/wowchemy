@@ -37,3 +37,4 @@ publication_types:
 abstract: ''
 publication: '*Journal of Nuclear Materials*'
 ---
+{{< staticref "uploads/creep.pdf" "newtab" >}}{{< /staticref >}}
