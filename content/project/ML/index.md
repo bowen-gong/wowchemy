@@ -42,3 +42,5 @@ slides: ""
 - Identified critical features governing the leaching behavior of nuclear materials with supervised learning
 - Employed linear regression and KRR to build predictive models and anticipate material performance
 - Predicted the leaching rates of nuclear waste materials with machine learning models to screen the most durable candidates for nuclear wastes’ safe disposal
+
+{{< icon name="download" pack="fas" >}} Download the paper for this project: {{< staticref "uploads/files/ML.pdf" "newtab" >}}ML{{< /staticref >}}

@@ -46,3 +46,5 @@ features, which show a 90% accuracy in predicting the genre of Reddit submission
 - Clustered posts within a subreddit with response features, K-means, and PCA to
 identify the dominant topics within each subreddit
 - Applied the derived response features to accurately detect outlier posts and efficiently predict the viral posts
+
+{{< icon name="download" pack="fas" >}} Download the paper for this project: {{< staticref "uploads/files/Reddit.pdf" "newtab" >}}Reddit{{< /staticref >}}
