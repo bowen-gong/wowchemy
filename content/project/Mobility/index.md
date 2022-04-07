@@ -47,3 +47,5 @@ transit
 - Evaluated the impact of various policies, such as the mask mandates and lockdown
 to the pandemic spread
 - Predicted accurately the daily cases in NYC with the developed model and the mobility data
+
+{{< icon name="download" pack="fas" >}} Download the paper for this project: {{< staticref "uploads/files/mobility.pdf" "newtab" >}}Mobility{{< /staticref >}}
